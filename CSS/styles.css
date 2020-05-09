@@ -1,0 +1,80 @@
+/******************************ELEMENT TAGS***********************************/
+body {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-size: 15px;
+  background: hsl(0, 0%, 98%);
+}
+
+h3 {
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+  padding: 20px 20px 0px 0px;
+  margin-left: 0px;
+
+}
+
+p {
+  color: hsl(229, 6%, 66%);
+}
+
+/****************************CLASS TAGS*********************************/
+.header {
+  margin-top: 60px;
+  padding-bottom: 40px;
+}
+
+.header-1 {
+  font-weight: 200;
+  color: hsl(229, 6%, 66%);
+  margin-bottom: 0px;
+}
+
+.header-2 {
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+  padding-top: 0px ;
+  margin-top: 0px
+}
+
+.head-p {
+  width: 35%;
+  margin: 10px auto;
+  font-size: 15px;
+}
+
+.red-box {
+  width: 20%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.09), 0 6px 20px 0 rgba(0, 0, 0, 0.07);
+  border-radius: 7px;
+  margin: 1px auto;
+
+
+}
+
+.blue-box {
+  width: 20%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.09), 0 6px 20px 0 rgba(0, 0, 0, 0.07);
+  border-radius: 7px;
+  position: absolute;
+  right: 280px;
+  top: 400px;
+}
+
+.yellow-box {
+  width: 20%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.09), 0 6px 20px 0 rgba(0, 0, 0, 0.07);
+  border-radius: 7px;
+  margin: 24px auto 20px auto;
+
+}
+
+.cyan-box {
+  width: 20%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.09), 0 6px 20px 0 rgba(0, 0, 0, 0.07);
+  border-radius: 7px;
+  position: absolute;
+  top: 400px;
+  left: 280px;
+
+}
